@@ -2,6 +2,7 @@ backend:
   name: github
   repo: soundbrandingIT/papo-menu-digitale
   branch: main
+  auth_type: implicit
 
 media_folder: "client/public/uploads"
 public_folder: "/uploads"
